@@ -15,7 +15,7 @@ It demonstrates the use of basic Python concepts such as:
 **How it works:**  
 The program takes a number as input from the user, processes it according to the problem statement, and displays the output.
 
-**How to run:**
+**How to run:** 
 python task1.py
 
 
